@@ -74,9 +74,7 @@ public class FileTreeTest {
     }
 
     private String expectedFile(String caseName) throws IOException {
-        return Files.lines(Paths.get("src/test/resources", caseName + ".txt"))
-                .map(String::trim)
-                .collect(Collectors.joining("\n"));
+        return Files.readString(Paths.get("src/test/resources", caseName + ".txt"));
     }
 
 
