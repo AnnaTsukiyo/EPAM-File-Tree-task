@@ -5,21 +5,17 @@ test3 0 bytes
 │  │  ├─ b.txt 0 bytes
 │  │  ├─ c.txt 0 bytes
 │  │  └─ d.txt 0 bytes
-│  ├─ AB 0 bytes
-│  ├─ BA 0 bytes
-│  │  ├─ A.txt 0 bytes
-│  │  ├─ b.txt 0 bytes
-│  │  ├─ C.txt 0 bytes
-│  │  └─ d.txt 0 bytes
-│  └─ bb 0 bytes
+│  └─ BA 0 bytes
+│     ├─ A.txt 0 bytes
+│     ├─ b.txt 0 bytes
+│     ├─ C.txt 0 bytes
+│     └─ d.txt 0 bytes
 ├─ b 0 bytes
-│  ├─ aa 0 bytes
 │  ├─ AB 0 bytes
 │  │  ├─ a.txt 0 bytes
 │  │  ├─ b.txt 0 bytes
 │  │  ├─ c.txt 0 bytes
 │  │  └─ d.txt 0 bytes
-│  ├─ BA 0 bytes
 │  └─ bb 0 bytes
 │     ├─ A.txt 0 bytes
 │     ├─ b.txt 0 bytes
@@ -31,13 +27,11 @@ test3 0 bytes
 │  │  ├─ b.txt 0 bytes
 │  │  ├─ c.txt 0 bytes
 │  │  └─ d.txt 0 bytes
-│  ├─ AB 0 bytes
 │  ├─ BA 0 bytes
 │  │  ├─ A.txt 0 bytes
 │  │  ├─ b.txt 0 bytes
 │  │  ├─ C.txt 0 bytes
 │  │  └─ d.txt 0 bytes
-│  ├─ bb 0 bytes
 │  ├─ a.txt 0 bytes
 │  ├─ b.txt 0 bytes
 │  ├─ c.txt 0 bytes
@@ -48,8 +42,6 @@ test3 0 bytes
    │  ├─ b.txt 0 bytes
    │  ├─ c.txt 0 bytes
    │  └─ d.txt 0 bytes
-   ├─ AB 0 bytes
-   ├─ BA 0 bytes
    └─ bb 0 bytes
       ├─ A.txt 0 bytes
       ├─ b.txt 0 bytes

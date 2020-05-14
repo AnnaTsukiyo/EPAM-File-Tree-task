@@ -13,16 +13,14 @@ test8 4568 bytes
    ├─ 6KKFVN 432 bytes
    │  ├─ T0mt 288 bytes
    │  │  ├─ 7Vgvk 224 bytes
-   │  │  │  ├─ WRL 224 bytes
-   │  │  │  │  ├─ X6C 200 bytes
-   │  │  │  │  │  ├─ DVE.txt 40 bytes
-   │  │  │  │  │  ├─ gpTKR.txt 48 bytes
-   │  │  │  │  │  ├─ q3oXmUg.txt 64 bytes
-   │  │  │  │  │  ├─ qr6b.txt 40 bytes
-   │  │  │  │  │  └─ VIdhyX.txt 8 bytes
-   │  │  │  │  ├─ XmcFZI 0 bytes
-   │  │  │  │  └─ HCa.txt 24 bytes
-   │  │  │  └─ Yve0nRs 0 bytes
+   │  │  │  └─ WRL 224 bytes
+   │  │  │     ├─ X6C 200 bytes
+   │  │  │     │  ├─ DVE.txt 40 bytes
+   │  │  │     │  ├─ gpTKR.txt 48 bytes
+   │  │  │     │  ├─ q3oXmUg.txt 64 bytes
+   │  │  │     │  ├─ qr6b.txt 40 bytes
+   │  │  │     │  └─ VIdhyX.txt 8 bytes
+   │  │  │     └─ HCa.txt 24 bytes
    │  │  ├─ eEHnR.txt 16 bytes
    │  │  ├─ lwS.txt 24 bytes
    │  │  └─ qYsE.txt 24 bytes
@@ -31,8 +29,6 @@ test8 4568 bytes
    │  ├─ LKW.txt 40 bytes
    │  └─ omgQyC.txt 48 bytes
    ├─ ffem88r 944 bytes
-   │  ├─ 755hq1h 0 bytes
-   │  ├─ A8x 0 bytes
    │  ├─ bUN4pDCF 224 bytes
    │  │  ├─ 92ua.txt 48 bytes
    │  │  ├─ BClCE.txt 40 bytes
@@ -44,7 +40,6 @@ test8 4568 bytes
    │     │  ├─ muSD.txt 64 bytes
    │     │  └─ W84.txt 8 bytes
    │     └─ W8gRKRp 648 bytes
-   │        ├─ PwlH7bhzS 0 bytes
    │        ├─ qReSTVr 296 bytes
    │        │  ├─ MQitA 248 bytes
    │        │  │  ├─ 0AdXwG.txt 64 bytes
@@ -52,7 +47,6 @@ test8 4568 bytes
    │        │  │  ├─ dLBfx.txt 72 bytes
    │        │  │  ├─ J5YLK4D.txt 72 bytes
    │        │  │  └─ ocM.txt 16 bytes
-   │        │  ├─ VX5 0 bytes
    │        │  └─ k1T.txt 48 bytes
    │        ├─ vr5laL 296 bytes
    │        │  ├─ sbG7rpo 176 bytes
@@ -71,7 +65,6 @@ test8 4568 bytes
    │  └─ k63m0 856 bytes
    │     ├─ 4nV2r 424 bytes
    │     │  ├─ Ek1bn2I 368 bytes
-   │     │  │  ├─ gyDg 0 bytes
    │     │  │  ├─ IFaQG 56 bytes
    │     │  │  │  ├─ TY0o.txt 16 bytes
    │     │  │  │  └─ xsh.txt 40 bytes
@@ -96,11 +89,10 @@ test8 4568 bytes
    │        │  ├─ kcXLz.txt 8 bytes
    │        │  └─ yEk.txt 72 bytes
    │        └─ x7r0EmM 128 bytes
-   │           ├─ btK 128 bytes
-   │           │  ├─ jxpv.txt 8 bytes
-   │           │  ├─ RyrIY.txt 40 bytes
-   │           │  └─ sgZ.txt 80 bytes
-   │           └─ nxZR 0 bytes
+   │           └─ btK 128 bytes
+   │              ├─ jxpv.txt 8 bytes
+   │              ├─ RyrIY.txt 40 bytes
+   │              └─ sgZ.txt 80 bytes
    ├─ OOp 1296 bytes
    │  ├─ I2wU7 960 bytes
    │  │  ├─ pbX 672 bytes
@@ -120,8 +112,6 @@ test8 4568 bytes
    │  │  │     ├─ NzngDT9.txt 80 bytes
    │  │  │     └─ WHJ3g9.txt 80 bytes
    │  │  └─ yiLtfS 288 bytes
-   │  │     ├─ kh7g 0 bytes
-   │  │     ├─ uUidUvU 0 bytes
    │  │     ├─ y4KSQk3nf 144 bytes
    │  │     │  ├─ 4uwe.txt 64 bytes
    │  │     │  ├─ ShtJs.txt 56 bytes
@@ -131,7 +121,6 @@ test8 4568 bytes
    │  │     ├─ Shp.txt 40 bytes
    │  │     └─ w4F2dh.txt 56 bytes
    │  └─ T049 336 bytes
-   │     ├─ 0neOd 0 bytes
    │     ├─ 9IJ 192 bytes
    │     │  ├─ Cmm.txt 72 bytes
    │     │  ├─ gK1jt.txt 48 bytes
@@ -140,16 +129,13 @@ test8 4568 bytes
    │        ├─ 2Kp.txt 48 bytes
    │        ├─ 7X4IA.txt 64 bytes
    │        └─ YrGw.txt 32 bytes
-   ├─ pUxb 0 bytes
    ├─ VbJYNaTJ 544 bytes
    │  ├─ CrJ5X 456 bytes
    │  │  ├─ IESG 72 bytes
-   │  │  │  ├─ Tv51 0 bytes
    │  │  │  └─ Z1w6Ge2Fm 72 bytes
    │  │  │     ├─ fN3.txt 8 bytes
    │  │  │     ├─ PKAYN.txt 16 bytes
    │  │  │     └─ txjK.txt 48 bytes
-   │  │  ├─ OYG 0 bytes
    │  │  └─ QHnUtK 384 bytes
    │  │     ├─ DWtmB4 136 bytes
    │  │     │  ├─ 3oO.txt 16 bytes
@@ -165,7 +151,6 @@ test8 4568 bytes
    │  │     │  │  └─ wAy.txt 64 bytes
    │  │     │  ├─ TqQzee3 8 bytes
    │  │     │  │  └─ BIe.txt 8 bytes
-   │  │     │  ├─ vIMETY 0 bytes
    │  │     │  └─ Q49.txt 24 bytes
    │  │     └─ Piq.txt 40 bytes
    │  ├─ AsyO.txt 8 bytes
