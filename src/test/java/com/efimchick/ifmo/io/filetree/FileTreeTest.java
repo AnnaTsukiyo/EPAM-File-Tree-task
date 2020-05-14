@@ -74,7 +74,9 @@ public class FileTreeTest {
     }
 
     private String expectedFile(String caseName) throws IOException {
-        return Files.readString(Paths.get("src/test/resources", caseName + ".txt"));
+        return Files.readString(Paths.get("src/test/resources", caseName + ".txt"))
+                .replace("\r\n", "\n");
+
     }
 
 
